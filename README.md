@@ -1,4 +1,4 @@
-## Hi there, I'm Kshitij.
+**Hi there, I'm Kshitij.**
 
 I am a researcher (CSE) at [mathLab](https://mathlab.sissa.it/), [SISSA](https://www.sissa.it/), Trieste, Italy. Previously, I was a postdoctoral researcher at the [Department of Mathematics and Computer Science](https://www.dimai.unifi.it), [University of Florence](https://www.unifi.it), Italy. I completed my Ph.D. at the Indian Institute of Technology Delhi.
 
