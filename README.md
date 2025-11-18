@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Kshitij.
+
+I am a researcher (CSE) at [mathLab](https://mathlab.sissa.it/), [SISSA](https://www.sissa.it/), Trieste, Italy. Previously, I was a postdoctoral researcher at the [Department of Mathematics and Computer Science](https://www.dimai.unifi.it), [University of Florence](https://www.unifi.it), Italy. I completed my Ph.D. at the Indian Institute of Technology Delhi.
+
+My research interests include Approximation Theory, Numerical Analysis, Splines, and Reduced-Order Modeling.
 
 <!--
 **kshitij-maths/kshitij-maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
