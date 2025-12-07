@@ -2,7 +2,7 @@
 
 I am a researcher (CSE) at [mathLab](https://mathlab.sissa.it/), [SISSA](https://www.sissa.it/), Trieste, Italy. Previously, I was a postdoctoral researcher at the [Department of Mathematics and Computer Science](https://www.dimai.unifi.it), [University of Florence](https://www.unifi.it), Italy. I completed my Ph.D. at the Indian Institute of Technology Delhi.
 
-My research interests include Approximation Theory, Numerical Analysis, Splines, and Reduced-Order Modeling.
+My research interests include Approximation Theory, Numerical Analysis, and Splines. Lately, I've started exploring Reduced-Order Modeling. For more details, please visit my [Personal Webpage](https://kshitij-maths.github.io).
 
 <!--
 **kshitij-maths/kshitij-maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
